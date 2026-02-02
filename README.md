@@ -2,8 +2,7 @@
   <h3 align="center">Kruscord</h3>
 
   <p align="center">
-    Want to make your Discord beautiful and fun to use while keeping it like Discord? Well, this is the perfect theme for you!
-    Kruscord contains features you'll love while keeping the original look of Discord so you know what app you're using.
+    type shit
   </p>
 </div>
 
