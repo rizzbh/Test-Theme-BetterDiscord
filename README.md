@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Kruscord</h3>
+  <h3 align="center">TSCord</h3>
 
   <p align="center">
     type shit
