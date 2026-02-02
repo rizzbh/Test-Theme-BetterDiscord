@@ -8,12 +8,10 @@
 </div>
 
 ## Features
-* Subtle recolor to keep it easy on your eyes.
-* Previews of themes with MacOS title bar buttons look so cool, too bad they're not present in your Windows. But with Kruscord they are!!
-* 'Add Server' button always visible to make joining new servers quick.
-* New messages appear with a smooth animation.
-* Better 'Jump to present' button for when you wander off into the past.
-* Many more visual changes that make Discord alive.
+* Gentle color scheme.
+* MacOS title bar buttons.
+* Smooth animations.
+* more stuff idk
 
 ## Screenshots
 ![Server Page](https://i.imgur.com/oJ4nUKP.png)
@@ -21,15 +19,13 @@
 ![Profile Modal](https://i.imgur.com/wpQUpKO.png)
 
 ## Installation
-* Download Kruscord theme zip file.<br>![Download ZIP](https://i.imgur.com/KAVXU9M.png)
-* Place Kruscord.theme.css in `%appdata%\Roaming\BetterDiscord\themes`
+* Download theme zip file.<br>![Download ZIP](https://i.imgur.com/KAVXU9M.png)
+* Place theme.css in `%appdata%\Roaming\BetterDiscord\themes`
 * Enable it in BetterDiscord themes settings.
 
 ## Known Issues
-* Interactable notifications (like BDFDB plugin updates) are not functinal. This is due to the title bar modifications. 
-Fix: Theme must be disabled in order to interact with these modals.
-* Please inform me if you come across any bugs: Krustyy#3022
+* idek
 
 ## Credits
-I have not created the following features. Complete credit goes to their respective owners.
+I have not created the following features. Credit goes to their respective creators.
 * stickfab#0985 for FluentIcons.
