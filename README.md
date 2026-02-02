@@ -2,7 +2,7 @@
   <h3 align="center">TSCord</h3>
 
   <p align="center">
-    type shit
+    type shit not supported anymore
   </p>
 </div>
 
